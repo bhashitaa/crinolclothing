@@ -4,7 +4,7 @@ import './footer.style.css'
 const Footer = () =>{
     return (
         <div className="footer-area">
-            <span>Made with 💖 by <a href="http://github.com/its-meabhi">Abhishek</a></span>
+            <span>Made with 💖 by Abhishek , Bhashita & Sachin</span>
         </div>
     )
 }
